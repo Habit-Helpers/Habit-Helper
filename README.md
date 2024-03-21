@@ -90,12 +90,22 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- Login Screnn
+  - => Home Screen
+  
+- Sign Up Screen 
+  - => Home Screen 
+
+- Home Screen 
+  - => Activity Screen (When clicking an **Activity**)
+  - => Insgiht Screen (When you click **See All** button)
+
+- Activities Screen
+  - => Add New Activity Screen (When you click **Add Activity** button at bottom of Activities Scren)
+ 
+- Daily reminder Screen
+  - => New Reminder Screen ( When you click on **Add** button)
+  
 
 ## Wireframes
 
