@@ -102,9 +102,11 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 
 - Activities Screen
   - => Add New Activity Screen (When you click **Add Activity** button at bottom of Activities Scren)
+  - => Home Screen (After you finish adding activiy you did)
  
 - Daily reminder Screen
-  - => New Reminder Screen ( When you click on **Add** button)
+  - => New Reminder Screen (When you click on **Add** button)
+  - => Home Screen (After you finish adding new reminder)
   
 
 ## Wireframes
