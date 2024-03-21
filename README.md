@@ -76,7 +76,7 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 - Insight Screen
   - Shows your overall summary of behavior pattern:
     - Daily/Weekley/Monthly trends
-    - Babit Streaks
+    - Habit Streaks
     - Goal Progress
 
 ### 3. Navigation
