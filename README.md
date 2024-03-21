@@ -44,12 +44,40 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Log Screen
+  - User can select Login
+  - User can select Sign Up
+    
+- Login Screen
+  - User can login to account
+    
+- Sign Up Screen 
+  - User can make an account
+    
+- Home Screen
+  - User can click a section to see data in full
+  - Allows user to see summary of all Screens:
+    - Activies Screen
+    - Reminder Screen
+    - Insight Screen
+    
+- Activites Screen
+  - Allow user see activites stats 
+ 
+- Add new activity Screen
+  - User can add activities 
+    
+- Reminder Sceen
+  - See daily reminders 
+ 
+- New Reminder Screen
+  - User can set reminders
+    
+- Insight Screen
+  - Shows your overall summary of behavior pattern:
+    - Daily/Weekley/Monthly trends
+    - Babit Streaks
+    - Goal Progress
 
 ### 3. Navigation
 
