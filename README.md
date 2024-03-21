@@ -83,9 +83,10 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home 
+* Activites
+* Reminders
+* Insights
 
 **Flow Navigation** (Screen to Screen)
 
