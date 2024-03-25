@@ -118,7 +118,7 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 <br>
 
 ### [BONUS] Digital Wireframes & Mockups
-
+https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-id=0%3A1&mode=design&t=yBhB9gWITvDAFS6i-1
 ### [BONUS] Interactive Prototype
 
 <br>
