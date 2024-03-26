@@ -111,7 +111,7 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="WireFrame.jpg" width=600>
+<img src="WireFrame.jpg" width=600>
 
 <br>
 
