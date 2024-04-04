@@ -78,6 +78,9 @@ An app that helps users build and maintain healthy habits by tracking daily acti
     - Daily/Weekley/Monthly trends
     - Habit Streaks
     - Goal Progress
+   
+- Profile Setting Screen
+  - User can edit or update profile 
 
 ### 3. Navigation
 
