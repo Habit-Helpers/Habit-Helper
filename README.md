@@ -146,8 +146,8 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
 - List the issues you completed this sprint:
   - hi
 - Current build of app
-  <img src="Login - route.gif" width=600>
-  <img src="sign-up route.gif" width=600>
+  <img src="Login - route .gif" width=600>
+  <img src="sign-up route .gif" width=600>
 
 <br>
 
