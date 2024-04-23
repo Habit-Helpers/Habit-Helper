@@ -152,7 +152,7 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
   - Creating android application
  
     
--  Current build of app
+-  *Current build of app*
   <img src="Login - route .gif" width=200>
   <img src="Sign-up route .gif" width=200>
 
@@ -170,8 +170,12 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
-App at 75% complete
+- *App at 75% complete*
 <img src="75%Complete.gif" width=200>
+
+- *App 100% Complete*
+<img src="Habit helpers app.gif" width=200>
+
 
 ## App Demo Video
 
