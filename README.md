@@ -162,7 +162,14 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- *Milestone 2* issuses worked on 
+<img src="Sprint 2 -Unit 9.jpg" width=600>
+
+- *Milestone 3* issuese worked on
+<img src="Sprint 3 - Unit 10.jpg" width=600>
+
+- Completed *Project Board* with the issues that We've been working on 
+
 
 ## Completed user stories
 
