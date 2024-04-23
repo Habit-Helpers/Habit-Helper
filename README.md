@@ -171,7 +171,7 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
 from the original requirements
 
 - *App at 75% complete*
-<img src="75%Complete.gif" width=200>
+<img src="Habit helper app 75.gif" width=200>
 
 - *App 100% Complete*
 <img src="Habit helpers app.gif" width=200>
