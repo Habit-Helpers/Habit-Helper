@@ -162,10 +162,10 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
 
 ## GitHub Project board
 
-- *Milestone 2* issuses worked on 
+- *Milestone 2* issues worked on 
 <img src="Sprint 2 -Unit 9.jpg" width=600>
 
-- *Milestone 3* issuese worked on
+- *Milestone 3* issues worked on
 <img src="Sprint 3 - Unit 10.jpg" width=600>
 
 - Completed *Project Board* with the issues that We've been working on 
