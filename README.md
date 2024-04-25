@@ -175,9 +175,13 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
 
 ## Completed user stories
 
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
+
+- completed *user stories* from this unit
+  - Enhance Activity Tracking Metrics
+  - Implement Goal-Setting Functionality
+  - Design Insight/Analytics Screen UI
+    
+<br> 
 
 - *App at 75% complete*
 <img src="Habit helper app 75.gif" width=200>
