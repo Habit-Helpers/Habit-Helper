@@ -144,9 +144,9 @@ https://www.figma.com/file/3NHe8AcQinNxbA3hhXfm0V/HabitHelpers?type=design&node-
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint:
-  - Desing Home Screen UI
+  - Design Home Screen UI
   - Implement Authentication Logic
-  - Coding default Screen Functinality
+  - Coding default Screen Functionality
   - Implement Backend Data Storage
   - Design UI for Login and Sign Up Screen
   - Creating android application
